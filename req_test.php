@@ -1,0 +1,2 @@
+<?php
+	print "hellow\n";

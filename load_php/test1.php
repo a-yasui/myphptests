@@ -1,0 +1,1 @@
+<?php $var = "test1";
